@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 15, 2020, 10:01:33 PM
+    Author     : Stark
+*/
+
+input[type=text]{
+    padding: 8px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    align-content: center;
+    border-radius: 10px;
+    border-color: bisque
+}
+input[type=submit]{
+    margin-left: 5px;
+    padding: 8px;
+    border-radius: 10px;
+    border-color: bisque;
+    background-color: bisque
+}
+.footer{
+  font-size: 15px;
+  color: var(--main-text-color);
+  margin-top:15px;
+}
